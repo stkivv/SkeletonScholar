@@ -1,0 +1,275 @@
+LANGUAGE_KEY;EST
+LANGUAGE_NAME;Eesti keel
+None selected;Pole valitud
+First thoracic vertebra;Esimene rinnalüli
+Second thoracic vertebra;Teine rinnalüli
+Third cervical vertebra;Kolmas kaelalüli
+Third thoracic vertebra;Kolmas rinnalüli
+Fourth cervical vertebra;Neljas kaelalüli
+Fourth thoracic vertebra;Neljas rinnalüli
+Fifth cervical vertebra;Viies kaelalüli
+Fifth thoracic vertebra;Viies rinnalüli
+Sixth cervical vertebra;Kuues kaelalüli
+Sixth thoracic vertebra;Kuues rinnalüli
+Seventh cervical vertebra;Seitsmes kaelalüli
+Seventh thoracic vertebra;Seitsmes rinnalüli
+Eighth thoracic vertebra;Kaheksas rinnalüli
+Ninth thoracic vertebra;Üheksas rinnalüli
+Distal phalanx of left second toe;Vasaku teise varba distaalne faalanks (lüli)
+Distal phalanx of right second toe;Parema teise varba distaalne faalanks (lüli)
+Distal phalanx of left third toe;Vasaku kolmanda varba distaalne faalanks (lüli)
+Distal phalanx of left fourth toe;Vasaku neljanda varba distaalne faalanks (lüli)
+Distal phalanx of left big toe;Vasaku suure varba distaalne faalanks (lüli)
+Distal phalanx of left little toe;Vasaku väikese varba distaalne faalanks (lüli)
+Distal phalanx of right third toe;Parema kolmanda varba distaalne faalanks (lüli)
+Distal phalanx of right fourth toe;Parema neljanda varba distaalne faalanks (lüli)
+Distal phalanx of right big toe;Parema suure varba distaalne faalanks (lüli)
+Distal phalanx of right little toe;Parema väikese varba distaalne faalanks (lüli)
+Intervertebral disk of axis;Telglüli lülidevaheketas
+Intervertebral disk of fourth thoracic vertebra;Neljanda rinnalüli lülidevaheketas
+Intervertebral disk of fifth thoracic vertebra;Viienda rinnalüli lülidevaheketas
+Intervertebral disk of sixth thoracic vertebra;Kuuenda rinnalüli lülidevaheketas
+Intervertebral disk of seventh thoracic vertebra;Seitsmenda rinnalüli lülidevaheketas
+Intervertebral disk of eighth thoracic vertebra;Kaheksanda rinnalüli lülidevaheketas
+Intervertebral disk of ninth thoracic vertebra;Üheksanda rinnalüli lülidevaheketas
+Intervertebral disk of tenth thoracic vertebra;Kümnenda rinnalüli lülidevaheketas
+Intervertebral disk of eleventh thoracic vertebra;Üheteistkümnenda rinnalüli lülidevaheketas
+Intervertebral disk of twelfth thoracic vertebra;Kaheteistkümnenda rinnalüli lülidevaheketas
+Intervertebral disk of first lumbar vertebra;Esimese nimmelüli lülidevaheketas
+Intervertebral disk of third cervical vertebra;Kolmanda kaelalüli lülidevaheketas
+Intervertebral disk of second lumbar vertebra;Teise nimmelüli lülidevaheketas
+Intervertebral disk of third lumbar vertebra;Kolmanda nimmelüli lülidevaheketas
+Intervertebral disk of fourth lumbar vertebra;Neljanda nimmelüli lülidevaheketas
+Intervertebral disk of fifth lumbar vertebra;Viienda nimmelüli lülidevaheketas
+Intervertebral disk of fourth cervical vertebra;Neljanda kaelalüli lülidevaheketas
+Intervertebral disk of fifth cervical vertebra;Viienda kaelalüli lülidevaheketas
+Intervertebral disk of sixth cervical vertebra;Kuuenda kaelalüli lülidevaheketas
+Intervertebral disk of seventh cervical vertebra;Seitsmenda kaelalüli lülidevaheketas
+Intervertebral disk of first thoracic vertebra;Esimese rinnalüli lülidevaheketas
+Intervertebral disk of second thoracic vertebra;Teise rinnalüli lülidevaheketas
+Intervertebral disk of third thoracic vertebra;Kolmanda rinnalüli lülidevaheketas
+Left tenth rib;Vasak kümnes roie
+Left eleventh rib;Vasak üheteistkümnes roie
+Left twelfth rib;Vasak kaheteistkümnes roie
+Left first rib;Vasak esimene roie
+Left second rib;Vasak teine ​​roie
+Left third rib;Vasak kolmas roie
+Left fourth rib;Vasak neljas roie
+Left fifth rib;Vasak viies roie
+Left sixth rib;Vasak kuues roie
+Left seventh rib;Vasak seitsmes roie
+Left eighth rib;Vasak kaheksas roie
+Left ninth rib;Vasak üheksas roie
+Left first costal cartilage;Vasak esimene roide kõhr
+Left first metatarsal bone;Vasak esimene pöialuu
+Left second costal cartilage;Vasak teine ​​roide kõhr
+Left third costal cartilage;Vasak kolmas roide kõhr
+Left fourth costal cartilage;Vasak neljas roide kõhr
+Left fifth costal cartilage;Vasak viies roide kõhr
+Left sixth costal cartilage;Vasak kuues roide kõhr
+Left seventh costal cartilage;Vasak seitsmes roide kõhr
+Left talus;Vasak kontsluu
+Middle phalanx of left second toe;Vasaku teise varba keskmine faalanks (lüli)
+Middle phalanx of left third toe;Vasaku kolmanda varba keskmine faalanks (lüli)
+Middle phalanx of left fourth toe;Vasaku neljanda varba keskmine faalanks (lüli)
+Middle phalanx of left little toe;Vasaku väikese varba keskmine faalanks (lüli)
+Middle phalanx of right second toe;Parema teise varba keskmine faalanks (lüli)
+Middle phalanx of right third toe;Parema kolmanda varba keskmine faalanks (lüli)
+Middle phalanx of right fourth toe;Parema neljanda varba keskmine faalanks (lüli)
+Middle phalanx of right little toe;Parema väikese varba keskmine faalanks (lüli)
+Right tenth rib;Parem kümnes roie
+Right eleventh rib;Parem üheteistkümnes roie
+Right twelfth rib;Parem kaheteistkümnes roie
+Right first costal cartilage;Parem esimene roide kõhr
+Right first rib;Parem esimene roie
+Right second costal cartilage;Parem teine ​​roide kõhr
+Right second rib;Parem teine ​​roie
+Right third costal cartilage;Parem kolmas roide kõhr
+Right third rib;Parem kolmas roie
+Right fourth costal cartilage;Parem neljas roide kõhr
+Right fourth rib;Parem neljas roie
+Right fifth costal cartilage;Parem viies roide kõhr
+Right fifth rib;Parem viies roie
+Right sixth costal cartilage;Parem kuues roide kõhr
+Right sixth rib;Parem kuues roie
+Right seventh costal cartilage;Parem seitsmes roide kõhr
+Right seventh rib;Parem seitsmes roie
+Right eighth rib;Parem kaheksas roie
+Right ninth rib;Parem üheksas roie
+Right fourth metatarsal bone;Parem neljas pöialuu
+Right cuboid bone;Parem kuupluu
+Right intermediate cuneiform bone;Parem keskmine talbluu
+Right lateral cuneiform bone;Parem külgmine talbluu
+Right medial cuneiform bone;Parem mediaalne talbluu
+Left tenth costal cartilage;Vasak kümnes roide kõhr
+Right tenth costal cartilage;Parem kümnes rinnakõhre
+Left eighth costal cartilage;Vasak kaheksas roide kõhr
+Right eighth costal cartilage;Parem kaheksas roide kõhr
+Left ninth costal cartilage;Vasak üheksas roide kõhr
+Right ninth costal cartilage;Parem üheksas roide kõhr
+Xiphoid process;mõõkjätke
+Atlas;kandelüli
+Axis;Telglüli
+Body of sternum;Rinnakukeha
+Left second metatarsal bone;Vasak teine pöialuu
+Left third metatarsal bone;Vasak kolmas pöialuu
+Left fourth metatarsal bone;Vasak neljas pöialuu
+Left fifth metatarsal bone;Vasak viies pöialuu
+Left calcaneus;Vasak kandluu
+Left cuboid bone;Vasak kuupluu
+Left femur;Vasak reieluu
+Left fibular collateral ligament;Vasak pindluu
+Left intermediate cuneiform bone;Vasak keskmine talbluu
+Left lateral cuneiform bone;Vasak külgmine talbluu 
+Left medial cuneiform bone;Vasak mediaalne talbluu
+Left tibial collateral ligament;Vasak sääreluu
+Manubrium;Rinnakupide
+Navicular bone of left foot;Vasaku jala lodiluu
+Navicular bone of right foot;Parema jala lodiluu
+Proximal phalanx of left big toe;Vasaku suure varba proksimaalne faalanks (lüli)
+Proximal phalanx of right big toe;Parema suure varba proksimaalne faalanks (lüli)
+Proximal phalanx of left second toe;Vasaku teise varba proksimaalne faalanks (lüli)
+Proximal phalanx of right second toe;Parema teise varba proksimaalne faalanks (lüli)
+Proximal phalanx of left third toe;Vasaku kolmanda varba proksimaalne faalanks (lüli)
+Proximal phalanx of right third toe;Parema kolmanda varba proksimaalne faalanks (lüli)
+Proximal phalanx of left fourth toe;Vasaku neljanda varba proksimaalne faalanks (lüli)
+Proximal phalanx of right fourth toe;Parema neljanda varba proksimaalne faalanks (lüli)
+Proximal phalanx of left little toe;Vasaku väikese varba proksimaalne faalanks (lüli)
+Proximal phalanx of right little toe;Parema väikese varba proksimaalne faalanks (lüli)
+Right first metatarsal bone;Parem esimene pöialuu
+Right second metatarsal bone;Parem teine ​​pöialuu
+Right third metatarsal bone;Parem kolmas pöialuu
+Right fifth metatarsal bone;Parem viies pöialuu
+Right calcaneus;Parem kandluu
+Right femur;Parem reieluu
+Right fibular collateral ligament;Parem pindluu
+Right talus;Parem kontsluu
+Right tibial collateral ligament;Parem sääreluu
+Body of hyoid bone;Keeleluu keha
+Left lesser horn;Keeleluu vasak väiksem sarv
+Right lesser horn;Keeleluu parem väiksem sarv
+Left greater horn of hyoid bone;Keeleluu vasak suurem sarv
+Right greater horn of hyoid bone;Keeleluu parem suurem sarv
+Articular capsule of right atlanto-occipital joint;Parema kuklaliigese liigesekapsel
+Articular capsule of left atlanto-occipital joint;Vasaku kuklaliigese liigesekapsel
+Left clavicle;Vasak rangluu
+Right clavicle;Parem rangluu
+Left humerus;Vasak õlavarreluu
+Right humerus;Parem õlavarreluu
+First coccygeal vertebra;Esimene sabalüli
+Second coccygeal vertebra;Teine sabalüli
+Fourth coccygeal vertebra;Neljas sabalüli
+Third coccygeal vertebra;Kolmas sabalüli
+Interpubic disk;häbemeliidus
+Left obturator membrane;Vasak toppemulk
+Right obturator membrane;Parem toppemulk
+Hook of right hamate;Parema konksluu konks
+Hook of left hamate;Vasaku konskluu konks
+Right pisiform;Parem hernesluu
+Left pisiform;Vasak hernesluu
+Distal phalanx of right ring finger;Parema sõrmusesõrme distaalne faalanks (lüli)
+Distal phalanx of left ring finger;Vasaku sõrmusesõrme distaalne faalanks (lüli)
+Distal phalanx of right little finger;Parema väikese sõrme distaalne faalanks (lüli)
+Distal phalanx of left little finger;Vasaku väikese sõrme distaalne faalanks (lüli)
+Right trapezoid;Parem trapetsoidluu
+Left trapezoid;Vasak trapetsoidluu
+Distal phalanx of right index finger;Parema nimetissõrme distaalne faalanks (lüli)
+Distal phalanx of left index finger;Vasaku nimetissõrme distaalne faalanks (lüli)
+Distal phalanx of right middle finger;Parema keskmise sõrme distaalne faalanks (lüli)
+Distal phalanx of left middle finger;Vasaku keskmise sõrme distaalne faalanks (lüli)
+Right lunate;Parem kuuluu
+Left lunate;Vasak kuuluu
+Tubercle of right trapezium;Parema trapetsluu tuberkul
+Tubercle of left trapezium;Vasaku trapetsluu tuberkul
+Middle phalanx of right little finger;Parema väikese sõrme keskmine faalanks (lüli)
+Middle phalanx of left little finger;Vasaku väikese sõrme keskmine faalanks (lüli)
+Right capitate;Parem päitluu
+Left capitate;Vasak päitluu
+Right scaphoid;Parem lodiluu
+Left scaphoid;Vasak lodiluu
+Right triquetral;Parem kolmkantluu
+Left triquetral;Vasak kolmkantluu
+Distal phalanx of right thumb;Parema pöidla distaalne faalanks (lüli)
+Distal phalanx of left thumb;Vasaku pöidla distaalne faalanks (lüli)
+Middle phalanx of right index finger;Parema nimetissõrme keskmine faalanks (lüli)
+Middle phalanx of left index finger;Vasaku nimetissõrme keskmine faalanks (lüli)
+Middle phalanx of right ring finger;Parema sõrmusesõrme keskmine faalanks (lüli)
+Middle phalanx of left ring finger;Vasaku sõrmusesõrme keskmine faalanks (lüli)
+Proximal phalanx of right little finger;Parema väikese sõrme proksimaalne faalanks (lüli)
+Proximal phalanx of left little finger;Vasaku väikese sõrme proksimaalne faalanks (lüli)
+Right hamate proper;Parem konksluu
+Left hamate proper;Vasak konksluu
+Middle phalanx of right middle finger;Parema keskmise sõrme keskmine faalanks (lüli)
+Middle phalanx of left middle finger;Vasaku keskmise sõrme keskmine faalanks (lüli)
+Proximal phalanx of right thumb;Parema pöidla proksimaalne faalanks (lüli)
+Proximal phalanx of left thumb;Vasaku pöidla proksimaalne faalanks (lüli)
+Proximal phalanx of right index finger;Parema nimetissõrme proksimaalne faalanks (lüli)
+Proximal phalanx of left index finger;Vasaku nimetissõrme proksimaalne faalanks (lüli)
+Proximal phalanx of right ring finger;Parema sõrmusesõrme proksimaalne faalanks (lüli)
+Proximal phalanx of left ring finger;Vasaku sõrmusesõrme proksimaalne faalanks (lüli)
+Proximal phalanx of right middle finger;Parema keskmise sõrme proksimaalne faalanks (lüli)
+Proximal phalanx of left middle finger;Vasaku keskmise sõrme proksimaalne faalanks (lüli)
+Right fourth metacarpal bone;Parem neljas kämblaluu
+Left fourth metacarpal bone;Vasak neljas kämblaluu
+Right trapezium proper;Parem trapetsluu
+Left trapezium proper;Vasak trapetsluu
+Right fifth metacarpal bone;Parem viies kämblaluu
+Left fifth metacarpal bone;Vasak viies kämblaluu
+Right first metacarpal bone;Parem esimene kämblaluu
+Left first metacarpal bone;Vasak esimene kämblaluu
+Right third metacarpal bone;Parem kolmas kämblaluu
+Left third metacarpal bone;Vasak kolmas kämblaluu
+Right second metacarpal bone;Parem teine ​​kämblaluu
+Left second metacarpal bone;Vasak teine ​​kämblaluu
+Right radius;Parem kodarluu
+Left radius;Vasak kodarluu
+Right ulna;Parem küünarluu
+Left ulna;Vasak küünarluu
+Fifth sacral vertebra;Viies ristluu lüli
+Third sacral vertebra;Kolmas ristluu lüli
+First sacral vertebra;Esimene ristluu lüli
+Second sacral vertebra;Teine ristluu lüli
+Fourth sacral vertebra;Neljas ristluu lüli
+Fifth lumbar vertebra;Viies nimmelüli
+Body of fifth lumbar vertebra;Viienda nimmelüli keha
+Fourth lumbar vertebra;Neljas nimmelüli
+Body of fourth lumbar vertebra;Neljanda nimmelüli keha
+Third lumbar vertebra;Kolmas nimmelüli
+Body of third lumbar vertebra;Kolmanda nimmelüli keha
+Second lumbar vertebra;Teine nimmelüli
+Body of second lumbar vertebra;Teise nimmelüli keha
+First lumbar vertebra;Esimene nimmelüli
+Body of first lumbar vertebra;Esimese nimmelüli keha
+Eleventh thoracic vertebra;Üheteistkümnes rinnalüli
+Body of twelfth thoracic vertebra;Kaheteistkümnenda rinnalüli keha
+Twelfth thoracic vertebra;Kaheteistkümnes rinnalüli
+Tenth thoracic vertebra;Kümnes rinnalüli
+Body of tenth thoracic vertebra;Kümnenda rinnalüli keha
+Body of eleventh thoracic vertebra;Üheteistkümnenda rinnalüli keha
+Right hip bone;Parem niudeluu
+Left scapula;Vasak abaluu
+Left hip bone;Vasak niudeluu
+Right lacrimal bone;Parem pisaraluu
+Right maxillary tuberosity;Parem ülalõualuu
+Right scapula;Parem abaluu
+Sphenoid bone;Kiilluu suurtiib
+Ethmoidal process of left inferior nasal concha;Sõelluu ninakarbik
+Frontal bone;Otsmikuluu
+Left inferior nasal concha;Vasak alumine ninakarbik
+Left lacrimal bone;Vasak pisaraluu
+Left maxillary tuberosity;Vasak ülalõualuu
+Left nasal bone;Vasak ninaluu
+Left palatine bone;Vasak palatina luu
+Left parietal bone proper;Vasak kiiruluu
+Left temporal bone;Vasak oimuluu
+Left zygomatic bone;Vasak sarnaluu
+Mandible;Alalõualuu
+Occipital bone;Kuklaluu
+Ethmoid;Sõelluu
+Right inferior nasal concha;Parem alumine ninakarbik
+Right nasal bone;Parem ninaluu
+Right palatine bone;Parem palatina luu
+Right parietal bone proper;Parem kiiruluu
+Right temporal bone;Parem oimuluu
+Right zygomatic bone;Parem sarnaluu
+Vomer proper;Sahkluu
